@@ -1,3 +1,3 @@
 "# My project's README" 
 
-Добавляем строчку
+Add new string
